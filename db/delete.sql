@@ -1,0 +1,1 @@
+delete from bins where productid = $1
